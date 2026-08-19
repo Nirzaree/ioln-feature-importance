@@ -1,0 +1,20 @@
+l2_code,l2_name,classification_class_code,HIM,IGP,DES,PEN,NEI,WGR,ICR
+5,Mangrove Forest,5,0,0,0,0,0,0,297
+3,Evergreen Forest,3,625,215,116,650,775,407,247
+4,Deciduous Forest,4,425,431,566,1533,480,304,225
+12,Grassland/ Herbaceous,12,555,431,694,1115,243,288,150
+11,Wetlands & Marsh Lands,11,176,255,259,353,172,108,228
+66,Thorn & Scrub,66,506,481,950,1087,256,288,281
+19,Open Seasonal Agriculture,19,258,1575,1898,2378,385,490,620
+36,Tree-based Perennial Agriculture,14,248,714,200,569,367,419,383
+9,Timber Plantation,14,138,664,142,473,157,197,101
+41,Shifting Cultivation,14,0,0,0,0,492,0,0
+24,Built Up,22,267,616,578,611,222,242,344
+23,Beach,22,0,0,0,0,0,0,116
+75,Sand Dune,22,0,0,561,0,0,0,0
+30,Mining Area,22,84,118,164,249,81,70,34
+25,Bare Earth,22,826,204,530,273,122,62,47
+33,Stable Open Water,33,138,245,245,460,128,121,251
+76,Transient Open Water,76,84,180,231,249,152,70,190
+34,Snow/ Ice/ Glaciers,34,499,0,0,0,99,0,0
+61,Salt pan/ Saline Flat,61,0,0,491,0,0,0,0

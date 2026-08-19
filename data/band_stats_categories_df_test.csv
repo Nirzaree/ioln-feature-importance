@@ -1,0 +1,73 @@
+unique_band,band_stat,band_category
+blue,"<StringArray>
+['median', 'stdDev', 'min', 'median_wet', 'median_dry']
+Length: 5, dtype: str",raw_band
+cai,"<StringArray>
+['median_dry', 'median', 'stdDev']
+Length: 3, dtype: str",water
+cloud,"<StringArray>
+['median_dry', 'median', 'median_wet', 'min', 'max', 'amp', 'stdDev']
+Length: 7, dtype: str",SMA
+evi2,"<StringArray>
+['median', 'median_dry', 'amp', 'stdDev', 'median_wet']
+Length: 5, dtype: str",vegetation
+gcvi,"<StringArray>
+['median_wet', 'median_dry', 'stdDev', 'median']
+Length: 4, dtype: str",vegetation
+green,"<StringArray>
+['min', 'median', 'median_wet', 'median_texture', 'stdDev', 'median_dry']
+Length: 6, dtype: str",raw_band
+gv,"<StringArray>
+['max', 'amp', 'median_wet', 'median', 'median_dry', 'stdDev', 'min']
+Length: 7, dtype: str",SMA
+gvs,"<StringArray>
+['stdDev', 'amp', 'max', 'median', 'median_dry', 'median_wet', 'min']
+Length: 7, dtype: str",SMA
+hallcover,"<StringArray>
+['stdDev', 'median']
+Length: 2, dtype: str",vegetation
+ndfi,"<StringArray>
+['max', 'amp', 'median', 'stdDev', 'median_wet', 'median_dry', 'min']
+Length: 7, dtype: str",SMA_derived
+ndvi,"<StringArray>
+['median_wet', 'amp', 'median_dry', 'median', 'stdDev']
+Length: 5, dtype: str",vegetation
+ndwi,"<StringArray>
+['median_dry', 'median', 'median_wet', 'amp', 'stdDev']
+Length: 5, dtype: str",water
+nir,"<StringArray>
+['min', 'stdDev', 'median_dry', 'median', 'median_wet']
+Length: 5, dtype: str",raw_band
+npv,"<StringArray>
+['median_dry', 'median', 'median_wet', 'max', 'amp', 'min', 'stdDev']
+Length: 7, dtype: str",SMA
+pri,"<StringArray>
+['median', 'median_dry', 'median_wet']
+Length: 3, dtype: str",vegetation
+red,"<StringArray>
+['median_dry', 'stdDev', 'min', 'median', 'median_wet']
+Length: 5, dtype: str",raw_band
+savi,"<StringArray>
+['median_dry', 'median', 'median_wet', 'stdDev']
+Length: 4, dtype: str",vegetation
+sefi,"<StringArray>
+['median', 'median_dry', 'stdDev']
+Length: 3, dtype: str",SMA_derived
+shade,"<StringArray>
+['median', 'min', 'median_dry', 'amp', 'stdDev', 'median_wet', 'max']
+Length: 7, dtype: str",SMA
+slope,"<StringArray>
+['']
+Length: 1, dtype: str",texture/terrain
+soil,"<StringArray>
+['median_wet', 'amp', 'median', 'min', 'max', 'median_dry', 'stdDev']
+Length: 7, dtype: str",SMA
+swir1,"<StringArray>
+['median_dry', 'median', 'min', 'median_wet', 'stdDev']
+Length: 5, dtype: str",raw_band
+swir2,"<StringArray>
+['median_dry', 'stdDev', 'median', 'min', 'median_wet']
+Length: 5, dtype: str",raw_band
+wefi,"<StringArray>
+['amp', 'median', 'median_wet', 'stdDev']
+Length: 4, dtype: str",SMA_derived

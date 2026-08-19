@@ -1,0 +1,25 @@
+class_name,class_code
+Forest,1
+Mangrove,5
+Evergreen,3
+DeciduousForest,4
+Herbaceous and Shrub Vegetation,10
+Grassland,12
+Wetlands,11
+Scrubs,66
+Farming,14
+Open Seasonal Agriculture,19
+AgroForestry,36
+ForestPlantation,9
+ShiftingCultivation,41
+Non-Vegetation Areas,22
+BuiltUp,24
+Beaches,23
+SandDunes,75
+Mining,30
+BareEarth,25
+Water,26
+StableWater,33
+TransientWater,76
+SnowAndIce,34
+SaltPans,61

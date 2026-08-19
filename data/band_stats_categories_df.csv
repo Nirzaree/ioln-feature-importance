@@ -1,0 +1,73 @@
+unique_band,band_stat
+blue,"<StringArray>
+['median', 'stdDev', 'min', 'median_wet', 'median_dry']
+Length: 5, dtype: str"
+cai,"<StringArray>
+['median_dry', 'median', 'stdDev']
+Length: 3, dtype: str"
+cloud,"<StringArray>
+['median_dry', 'median', 'median_wet', 'min', 'max', 'amp', 'stdDev']
+Length: 7, dtype: str"
+evi2,"<StringArray>
+['median', 'median_dry', 'amp', 'stdDev', 'median_wet']
+Length: 5, dtype: str"
+gcvi,"<StringArray>
+['median_wet', 'median_dry', 'stdDev', 'median']
+Length: 4, dtype: str"
+green,"<StringArray>
+['min', 'median', 'median_wet', 'median_texture', 'stdDev', 'median_dry']
+Length: 6, dtype: str"
+gv,"<StringArray>
+['max', 'amp', 'median_wet', 'median', 'median_dry', 'stdDev', 'min']
+Length: 7, dtype: str"
+gvs,"<StringArray>
+['stdDev', 'amp', 'max', 'median', 'median_dry', 'median_wet', 'min']
+Length: 7, dtype: str"
+hallcover,"<StringArray>
+['stdDev', 'median']
+Length: 2, dtype: str"
+ndfi,"<StringArray>
+['max', 'amp', 'median', 'stdDev', 'median_wet', 'median_dry', 'min']
+Length: 7, dtype: str"
+ndvi,"<StringArray>
+['median_wet', 'amp', 'median_dry', 'median', 'stdDev']
+Length: 5, dtype: str"
+ndwi,"<StringArray>
+['median_dry', 'median', 'median_wet', 'amp', 'stdDev']
+Length: 5, dtype: str"
+nir,"<StringArray>
+['min', 'stdDev', 'median_dry', 'median', 'median_wet']
+Length: 5, dtype: str"
+npv,"<StringArray>
+['median_dry', 'median', 'median_wet', 'max', 'amp', 'min', 'stdDev']
+Length: 7, dtype: str"
+pri,"<StringArray>
+['median', 'median_dry', 'median_wet']
+Length: 3, dtype: str"
+red,"<StringArray>
+['median_dry', 'stdDev', 'min', 'median', 'median_wet']
+Length: 5, dtype: str"
+savi,"<StringArray>
+['median_dry', 'median', 'median_wet', 'stdDev']
+Length: 4, dtype: str"
+sefi,"<StringArray>
+['median', 'median_dry', 'stdDev']
+Length: 3, dtype: str"
+shade,"<StringArray>
+['median', 'min', 'median_dry', 'amp', 'stdDev', 'median_wet', 'max']
+Length: 7, dtype: str"
+slope,"<StringArray>
+['']
+Length: 1, dtype: str"
+soil,"<StringArray>
+['median_wet', 'amp', 'median', 'min', 'max', 'median_dry', 'stdDev']
+Length: 7, dtype: str"
+swir1,"<StringArray>
+['median_dry', 'median', 'min', 'median_wet', 'stdDev']
+Length: 5, dtype: str"
+swir2,"<StringArray>
+['median_dry', 'stdDev', 'median', 'min', 'median_wet']
+Length: 5, dtype: str"
+wefi,"<StringArray>
+['amp', 'median', 'median_wet', 'stdDev']
+Length: 4, dtype: str"
